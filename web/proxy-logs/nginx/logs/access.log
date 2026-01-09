@@ -1,0 +1,4 @@
+172.18.0.5 - - [05/Nov/2025:16:48:10 +0000] "GET / HTTP/1.0" 200 558 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+172.18.0.5 - - [05/Nov/2025:16:48:10 +0000] "GET /main.css HTTP/1.0" 200 558 "https://localhost/one/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+172.18.0.5 - - [05/Nov/2025:16:48:10 +0000] "GET /avatar.jpeg HTTP/1.0" 200 36048 "https://localhost/one/" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
+172.18.0.5 - - [05/Nov/2025:16:49:05 +0000] "GET / HTTP/1.0" 200 558 "-" "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36"
